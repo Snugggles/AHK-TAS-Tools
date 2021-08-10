@@ -1,0 +1,242 @@
+[General Settings]
+Force Cursor Hide=0
+Mouse Unfocus=1
+Background=1
+Multiple Bindings=0
+DirectInput Game Devices=1
+XInput=1
+DualShock 3=0
+Multitap 1=0
+Multitap 2=0
+Escape Fullscreen Hack=0
+Disable Screen Saver=0
+Logging=0
+Save State in Title=0
+GH2=0
+Turbo Key Hack=0
+Vista Volume=1
+Close Hacks=0
+Keyboard Mode=2
+Mouse Mode=0
+Volume=100
+[Pad 0 0]
+Mode=1
+Auto Analog=0
+[Pad 0 1]
+Mode=1
+Auto Analog=0
+[Pad 0 2]
+Mode=1
+Auto Analog=0
+[Pad 0 3]
+Mode=1
+Auto Analog=0
+[Pad 1 0]
+Mode=1
+Auto Analog=0
+[Pad 1 1]
+Mode=1
+Auto Analog=0
+[Pad 1 2]
+Mode=1
+Auto Analog=0
+[Pad 1 3]
+Mode=1
+Auto Analog=0
+[Device 0]
+Display Name=Ignore Keyboard
+Instance ID=Ignore Keyboard
+API=7
+Type=1
+[Device 1]
+Display Name=WM Keyboard
+Instance ID=WM Keyboard
+API=2
+Type=1
+[Device 2]
+Display Name=WM Mouse
+Instance ID=WM Mouse
+API=2
+Type=2
+[Device 3]
+Display Name=Raw KB: HID Keyboard Device
+Instance ID=\\?\HID#VID_1A2C&PID_4C5E&MI_01&Col06#8&18e732ec&0&0005#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 4]
+Display Name=Raw KB: HID Keyboard Device
+Instance ID=\\?\HID#VID_1A2C&PID_4C5E&MI_01&Col05#8&18e732ec&0&0004#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 5]
+Display Name=Raw KB: HID Keyboard Device
+Instance ID=\\?\HID#VID_1A2C&PID_4C5E&MI_01&Col04#8&18e732ec&0&0003#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 6]
+Display Name=Raw KB: HID Keyboard Device
+Instance ID=\\?\HID#VID_1E7D&PID_2E27&MI_01#8&267ec071&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 7]
+Display Name=Raw KB: HID Keyboard Device
+Instance ID=\\?\HID#VID_1A2C&PID_4C5E&MI_00#8&2c174f2a&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 8]
+Display Name=Raw KB: spacedesk Keyboard
+Instance ID=\\?\ROOT#SPACEDESK_KEYBOARD#0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+API=3
+Type=1
+[Device 9]
+Display Name=Raw MS: HID-compliant mouse
+Instance ID=\\?\HID#VID_1E7D&PID_2E27&MI_00&Col01#8&ebb342c&0&0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Product ID=\\?\HID\VID_1E7D&PID_2E27&MI_00&Col01
+API=3
+Type=2
+[Device 10]
+Display Name=Raw MS: spacedesk Mouse
+Instance ID=\\?\ROOT#SPACEDESK_MOUSE#0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Product ID=\\?\ROOT\SPACEDESK_MOUSE
+API=3
+Type=2
+[Device 11]
+Display Name=Simulated Keyboard
+Instance ID=Simulated Keyboard
+API=3
+Type=1
+[Device 12]
+Display Name=Simulated Mouse
+Instance ID=Simulated Mouse
+API=3
+Type=2
+[Device 13]
+Display Name=XInput Pad 0
+Instance ID=XInput Pad 0
+API=4
+Type=3
+[Device 14]
+Display Name=XInput Pad 1
+Instance ID=XInput Pad 1
+API=4
+Type=3
+[Device 15]
+Display Name=XInput Pad 2
+Instance ID=XInput Pad 2
+API=4
+Type=3
+[Device 16]
+Display Name=XInput Pad 3
+Instance ID=XInput Pad 3
+API=4
+Type=3
+[Device 17]
+Display Name=DX Mouse
+Instance ID=6F1D2B60-D5A0-11CF-BFC7-444553540000
+Product ID=6F1D2B60-D5A0-11CF-BFC7-444553540000
+API=1
+Type=2
+[Device 18]
+Display Name=DX Keyboard
+Instance ID=6F1D2B61-D5A0-11CF-BFC7-444553540000
+Product ID=6F1D2B61-D5A0-11CF-BFC7-444553540000
+API=1
+Type=1
+[Device 19]
+Display Name=DX vJoy Device
+Instance ID=896EB0F0-99B3-11EA-8002-444553540000
+Product ID=BEAD1234-0000-0000-0000-504944564944
+API=1
+Type=3
+Binding 0=0x01020000, 0, 32, 65536, 0, 0, 13172
+Binding 1=0x02020000, 0, 34, 65536, 0, 0, 13172
+Binding 2=0x01020001, 0, 33, 65536, 0, 0, 13172
+Binding 3=0x02020001, 0, 35, 65536, 0, 0, 13172
+Binding 4=0x01020002, 0, 37, 65536, 0, 0, 13172
+Binding 5=0x02020002, 0, 39, 65536, 0, 0, 13172
+Binding 6=0x00040000, 0, 30, 65536, 0, 0, 0
+Binding 7=0x00040001, 0, 31, 65536, 0, 0, 0
+Binding 8=0x00040002, 0, 29, 65536, 0, 0, 0
+Binding 9=0x00040003, 0, 28, 65536, 0, 0, 0
+Binding 10=0x00040004, 0, 20, 65536, 0, 0, 0
+Binding 11=0x00040005, 0, 22, 65536, 0, 0, 0
+Binding 12=0x00040006, 0, 23, 65536, 0, 0, 0
+Binding 13=0x00040007, 0, 21, 65536, 0, 0, 0
+Binding 14=0x00040008, 0, 27, 65536, 0, 0, 0
+Binding 15=0x00040009, 0, 25, 65536, 0, 0, 0
+Binding 16=0x0004000A, 0, 18, 65536, 0, 0, 0
+Binding 17=0x0004000B, 0, 26, 65536, 0, 0, 0
+Binding 18=0x0004000C, 0, 24, 65536, 0, 0, 0
+Binding 19=0x0004000D, 0, 17, 65536, 0, 0, 0
+Binding 20=0x0004000E, 0, 16, 65536, 0, 0, 0
+Binding 21=0x0004000F, 0, 19, 65536, 0, 0, 0
+[Device 20]
+Display Name=DX vJoy Device
+Instance ID=4677A4E0-99C3-11EA-8003-444553540000
+Product ID=BEAD1234-0000-0000-0000-504944564944
+API=1
+Type=3
+Binding 0=0x01020000, 0, 36, 65536, 0, 0, 13172
+Binding 1=0x02020000, 0, 38, 65536, 0, 0, 13172
+Binding 2=0x01020001, 0, 37, 65536, 0, 0, 13172
+Binding 3=0x02020001, 0, 39, 65536, 0, 0, 13172
+[Device 21]
+Display Name=DX ROCCAT Kone Aimo
+Instance ID=77A05C70-DA14-11E9-8001-444553540000
+Product ID=2E271E7D-0000-0000-0000-504944564944
+API=1
+Type=3
+[Device 22]
+Display Name=DX USB Keyboard
+Instance ID=FCDDD0C0-00D9-11EA-8001-444553540000
+Product ID=4C5E1A2C-0000-0000-0000-504944564944
+API=1
+Type=3
+[Device 23]
+Display Name=DX USB Keyboard
+Instance ID=FCDDF7D0-00D9-11EA-8002-444553540000
+Product ID=4C5E1A2C-0000-0000-0000-504944564944
+API=1
+Type=3
+[Device 24]
+Display Name=DX Yeti Stereo Microphone
+Instance ID=ABAB6150-E64B-11E6-8001-444553540000
+Product ID=9E84B58E-0000-0000-0000-504944564944
+API=1
+Type=3
+[Device 25]
+Display Name=DX ROCCAT Kone Aimo
+Instance ID=77A08380-DA14-11E9-8002-444553540000
+Product ID=2E271E7D-0000-0000-0000-504944564944
+API=1
+Type=3
+[Device 26]
+Display Name=DX Wireless Controller
+Instance ID=16CF8AE0-16C8-11E7-8001-444553540000
+Product ID=05C4054C-0000-0000-0000-504944564944
+API=1
+Type=3
+Binding 0=0x01020005, 0, 38, 65536, 0, 0, 13172
+Binding 1=0x02020005, 0, 36, 65536, 0, 0, 13172
+Binding 2=0x01020002, 0, 37, 65536, 0, 0, 13172
+Binding 3=0x02020002, 0, 39, 65536, 0, 0, 13172
+Binding 4=0x01020001, 0, 34, 65536, 0, 0, 13172
+Binding 5=0x02020001, 0, 32, 65536, 0, 0, 13172
+Binding 6=0x01020000, 0, 33, 65536, 0, 0, 13172
+Binding 7=0x02020000, 0, 35, 65536, 0, 0, 13172
+Binding 8=0x03100000, 0, 20, 65536, 0, 0, 13172
+Binding 9=0x04100000, 0, 21, 65536, 0, 0, 13172
+Binding 10=0x05100000, 0, 22, 65536, 0, 0, 13172
+Binding 11=0x06100000, 0, 23, 65536, 0, 0, 13172
+Binding 12=0x00040000, 0, 31, 65536, 0, 0, 0
+Binding 13=0x00040001, 0, 30, 65536, 0, 0, 0
+Binding 14=0x00040002, 0, 29, 65536, 0, 0, 0
+Binding 15=0x00040003, 0, 28, 65536, 0, 0, 0
+Binding 16=0x00040004, 0, 26, 65536, 0, 0, 0
+Binding 17=0x00040005, 0, 27, 65536, 0, 0, 0
+Binding 18=0x00040006, 0, 24, 65536, 0, 0, 0
+Binding 19=0x00040007, 0, 25, 65536, 0, 0, 0
+Binding 20=0x00040008, 0, 16, 65536, 0, 0, 0
+Binding 21=0x00040009, 0, 19, 65536, 0, 0, 0
+Binding 22=0x0004000A, 0, 17, 65536, 0, 0, 0
+Binding 23=0x0004000B, 0, 18, 65536, 0, 0, 0
