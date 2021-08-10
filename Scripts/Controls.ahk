@@ -21,7 +21,7 @@ For the "PCSX2Version" variable, you want to put your version number followed by
 1.7.0-1258: 1701258
 1.7.0-1509: 1701509
 */
-PCSX2Version := 1701258
+PCSX2Version := 1701509
 waitTime := 50
 myStick := vJoyInterface.Devices[1]
 lastX := 50
@@ -565,7 +565,7 @@ Switch [%PCSX2Version%]
 1701258:
 	temp := ReadMemory(0x0ae1955c, "ahk_exe pcsx2.exe")
 1701509:
-	temp := ReadMemory(0x0af9a2a8, "ahk_exe pcsx2.exe")
+	temp := ReadMemory(Base + 0xAB3A2A8, "ahk_exe pcsx2.exe")
 }
 return temp
 }
