@@ -17,13 +17,11 @@ It's always recommended to use the most up-to-date stable Version of any Emulato
 
 ## Default Hotkeys
 
-Insert - Plays the Script that you have open.
+F11 - Plays the Script that you have open.
 
 F5 - Reloads the Script that you have open.
 
 ScrollLock - Pauses the Script midway through.
-
-` (Grave) - Tells you how many Frames have been Advanced during the Script so far.
 
 
 ## Prerequisites
