@@ -1,18 +1,8 @@
 # About
 These are a set of AutoHotkey Scripts that allow you to create a string of Controller Inputs, mainly used for creating Tool-Assisted Speedruns on Emulators.
-The original project was just for use with the PS2 Emulator, PCSX2, as it had a lot of desyncing issues, as well as issues wiht Input Recording functionality, but I have attempted to generalize it a bit to make it work for other Emulators as well.
+The original project was just for use with the PS2 Emulator, PCSX2, as it had a lot of desyncing issues, as well as issues with Input Recording functionality, but I have attempted to generalize it a bit to make it work for other Emulators as well.
 The way these Scripts function are by using a Virtual Controller thanks to VJoy to emulate Controller Inputs, giving insctructions so the Controller Inputs are set to whatever is desired for a specific frame, then using the Emulator's Frame Advancing feature it steps forward a frame. After that, it goes to the next instruction of Inputs, and carries on until the end of the Script is reached.
 With the way the Scripts work, each version of each Emulator needs its own Memory Address settings, as the Scripts read what the current frame is to know when to move on to the next Inputs. Most Updates to the Emulators will change where this address is, so only a limited number of Emulators and Versions are currently compatible from a fresh Download.
-It's always recommended to use the most up-to-date stable Version of any Emulator, outside of specific needs. Below is a table of current Versions for Emulators that I've personally made work in this build of the Scripts:
-
-| PCSX2 | Dolphin|
-|-------|--------|
-|1.7.4117|5.0-18498|
-|1.7.3902|5.0-17995|
-|1.7.0-1947|--------|
-|1.7.0-1509|--------|
-|1.7.0-1258|--------|
-|1.4.0-rr|--------|
 
 
 ## Default Hotkeys
