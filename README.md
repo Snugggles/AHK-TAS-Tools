@@ -18,7 +18,7 @@ ScrollLock - Pauses the Script midway through.
 
 Any Text Editor - I recommend Notepad++, but any Text Editor will work. Use whatever is most comfortable for you.
 
-AutoHotkey - This is the language that the Scripts are written in. I'm unsure if the Version that you have installed matters, but this link is the exact Version that I use: https://www.filepuma.com/download/autohotkey_1.1.30.03-21959/
+AutoHotkey - This is the language that the Scripts are written in. I'm unsure if the Version that you have installed matters, but this link is the exact Version that I use: https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.30.03_setup.exe
 
 VJoy - This is used to create an Emulated Controller, normally used to map Keyboard Presses to Controller Inputs. Once again, I'm unsure if Version matters, but the link provided is the exact Version I have installed: https://sourceforge.net/projects/vjoystick/files/Beta%202.x/2.1.8.38-190417/vJoySetup.exe/download
 
